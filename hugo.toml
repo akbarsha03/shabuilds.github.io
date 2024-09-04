@@ -1,0 +1,4 @@
+baseURL = 'https://shabuilds.tech/'
+languageCode = 'en-us'
+title = 'shabuilds.tech'
+theme = ["PaperMod"]
