@@ -1,4 +1,4 @@
 baseURL = 'https://akbarsha03.github.io/shabuilds.github.io'
 languageCode = 'en-us'
 title = 'shabuilds.tech'
-theme = ["PaperMod"]
+theme = 'PaperMod'
